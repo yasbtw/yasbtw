@@ -17,12 +17,11 @@ Here are some ideas to get you started:
 
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-## 🤍 Yas
+## 🤍 Yas 💗 Y
+- 14-year-old developer
 - Full Stack Developer with 4 years of Minecraft-based development Experience, Game Development, and Web Design.
-
-## 😄 Information
-- 📎 Age: 14
-- 📂
+- Graphic designer (Photoshop)
+- Roblox developer
 
 ## 💻 Skills
 ### ➛ __Languages__
