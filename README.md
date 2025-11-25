@@ -22,14 +22,18 @@ Here are some ideas to get you started:
 
 ## 😄 Information
 - 📎 Age: 14
+- 📂
 
 ## 💻 Skills
 ### ➛ __Languages__
 
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?logo=godotengine&logoColor=fff&style=for-the-badge)
+![Lua Badge](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=fff&style=for-the-badge)
+![Luau Badge](https://img.shields.io/badge/Luau-00A2FF?logo=luau&logoColor=fff&style=for-the-badge)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![javascript](https://img.shields.io/badge/Java%20Script-20232A?style=for-the-badge&logo=javascript&logoColor=white)
-![skript](https://img.shields.io/badge/Skript-20232A?style=for-the-badge&logo=code&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Roblox Studio Badge](https://img.shields.io/badge/Roblox%20Studio-00A2FF?logo=robloxstudio&logoColor=fff&style=for-the-badge)
+![skript](https://img.shields.io/badge/Skript-20232A?style=for-the-badge&logo=code&logoColor=white)
