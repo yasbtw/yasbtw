@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 15-year-old Full-stack developer with 4 years of Minecraft-based development Experience, Game Development, and Web Design.
 
 
-##Skills
+# Skills
 | Programming | Tools |
 | - | - |
 | <img src="https://skillicons.dev/icons?i=c,go,lua,py,html,css"> | <img src="https://skillicons.dev/icons?i=robloxstudio,godot,unity,photoshop"> |
