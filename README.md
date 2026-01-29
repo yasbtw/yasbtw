@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 - Graphic designer
 - Roblox developer
 <div align="Center">
+  
 ## Skills
   
 | Languages | Tools |
 | - | - |
 | <img src="https://skillicons.dev/icons?i=c,go,lua,py,html,css"> | <img src="https://skillicons.dev/icons?i=robloxstudio,godot,unity"> |
+
 </div>
