@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
   
 # yas (m<3)
-💬 15-year-old Full-stack developer with 4 years of Minecraft-based development Experience, Game Development, and Web Design.<br>
-⚡ Graphic designer and roblox developer
+📁 15-year-old Full-stack developer with Minecraft-based development Experience, Game Development, and Web Design.<br>
+💬 Graphic designer and Roblox developer
 
 
 # Skills
@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 # 
 
-| Contact |
+| Socials |
 | - |
-| <img src="https://skillicons.dev/icons?i=c,go,lua,py,html,css"> |
+| <img src="https://skillicons.dev/icons?i=discord,gmail,instagram"> |
 
 </div>
