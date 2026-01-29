@@ -23,24 +23,33 @@ Here are some ideas to get you started:
 # About Me
 
 <table>
+  
   <tr>
-    <td>
-      <pre>
-   ))
+  <td>
+      
+  <pr>
+  ))
  .-#-----.
 /_________\
  |[] _ []|
  |  |*|  |
-      </pre>
-    </td>
-    <td>
-      <div align="left">
         
-      📁 **15-year-old Full-stack developer** with Minecraft-based development experience, Game Development, and Web Design.<br>
-      💬 Graphic designer and Roblox developer
-      </div>
-    </td>
+  </pr>
+      
+      
+ </td>
+    
+<td>
+    
+  <div align="left">
+   📁 **15-year-old Full-stack developer** with Minecraft-based development experience, Game Development, and Web Design.<br>
+  💬 Graphic designer and Roblox developer
+  </div>
+      
+   </td>
+    
   </tr>
+  
 </table>
 
 
