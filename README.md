@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=c,java,kotlin,go,lua,py,js,godot,robloxstudio,html,css)](https://skillicons.dev)
 | Languages | Tools |
 | - | - |
-| <img src="https://skillicons.dev/icons?i=c,java,kotlin,go,lua,py,html,css"> | [![My Skills](https://skillicons.dev/icons?i=godot,robloxstudio)](https://skillicons.dev) |
+| <img src="https://skillicons.dev/icons?i=c,go,lua,py,html,css"> | <img src="https://skillicons.dev/icons?i=robloxstudio,godot,unity"> |
 #<📫> : Discord: yastubbeasdasd | a
 
 
