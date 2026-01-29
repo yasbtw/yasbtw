@@ -37,5 +37,6 @@ Here are some ideas to get you started:
 ![skript](https://img.shields.io/badge/Skript-20232A?style=for-the-badge&logo=code&logoColor=white)
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,kotlin,go,lua,py,js,godot,robloxstudio,html,css)](https://skillicons.dev)
-
+| Website | Programming |
+| ------------- | ------------- |
 #<📫> : Discord: yastubbe
