@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,kotlin,go,lua,py,js,godot,robloxstudio,html,css)](https://skillicons.dev)
 | Website | Programming |
-| ------------- | ------------- |
+| -- | ------------- |
 #<📫> : Discord: yastubbe
