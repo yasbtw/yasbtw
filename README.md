@@ -20,8 +20,6 @@ Here are some ideas to get you started:
   
 ## 🤍 Yas (m<3)
 - 15-year-old Full-stack developer with 4 years of Minecraft-based development Experience, Game Development, and Web Design.
-- Graphic designer
-- Roblox developer
 
 </div>
 
