@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 <table><tr><td><pre>
    ()    .-.,="``"=.    - o - 
-         '=/_       \     |  
-      *   |  '=._    |      
-           \     `=./`,    ' 
-        .   '=.__.=' `='    *
-  </pre>
+         '=/_       \     |   
+      *   |  '=._    |        
+           \     `=./`,    '  
+        .   '=.__.=' `='    * 
+</pre>
       
  </td><td align="left"> 
    
