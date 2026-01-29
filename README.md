@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 # Skills
 | Programming | Tools |
 | - | - |
-| <img src="https://skillicons.dev/icons?i=c,go,lua,py,html,css"> | <img src="https://skillicons.dev/icons?i=robloxstudio,godot,unity,photoshop"> |
+| <img src="https://skillicons.dev/icons?i=c,go,lua,py,js,html,css"> | <img src="https://skillicons.dev/icons?i=robloxstudio,godot,unity,photoshop,sqlite"> |
 
 # 
 
