@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 💬 Graphic designer and Roblox developer
 </div>
 
-| a | b |
+| a<br>asd | b |
 | - | - |
 
 | ```
