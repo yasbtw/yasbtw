@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ## 💻 Languages
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
+![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?logo=godotengine&logoColor=fff&style=for-the-badge)
 ![Lua Badge](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=fff&style=for-the-badge)
 ![Luau Badge](https://img.shields.io/badge/Luau-00A2FF?logo=luau&logoColor=fff&style=for-the-badge)
