@@ -21,10 +21,9 @@
 | - | - |
 | <img src="https://skillicons.dev/icons?i=c,lua,py,js,html,css"> | <img src="https://skillicons.dev/icons?i=robloxstudio,godot,unity,photoshop"> |
 
-# 
+# Socials
 
-| Socials |
-| - |
 | <img src="https://skillicons.dev/icons?i=discord,gmail,instagram"> |
+| - |
 
 </div>
