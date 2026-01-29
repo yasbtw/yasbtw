@@ -22,11 +22,8 @@ Here are some ideas to get you started:
   
 # About Me
 
-<table>
-  
-  <tr>
+<table><tr>
   <td>
-      
   <pre>
   ))
  .-#-----.
@@ -37,20 +34,11 @@ Here are some ideas to get you started:
   </pre>
       
       
- </td>
+ </td><td align="left">
     
-<td>
-    
-  <div align="left">
    📁 **15-year-old Full-stack developer** with Minecraft-based development experience, Game Development, and Web Design.<br>
   💬 Graphic designer and Roblox developer
-  </div>
-      
-   </td>
-    
-  </tr>
-  
-</table>
+  </div></td></tr></table>
 
 
 
