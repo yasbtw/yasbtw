@@ -35,8 +35,13 @@ Here are some ideas to get you started:
 💬 Graphic designer and Roblox developer
 </div>
 
-|a
-  asd sad as | b |
+|
+|    ))
+|  .-#-----.
+| /_________\
+|  |[] _ []|
+|  |  |*|  |
+| b |
 | - | - |
 
 | ```
