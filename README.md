@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 # About Me
 
 <table><tr><td><pre>
-  ))
- .-#-----.
-/_________\
- |[] _ []|
- |  |*|  |
+       ()    .-.,="``"=.    - o -
+             '=/_       \     |
+          *   |  '=._    |
+               \     `=./`,        '
+            .   '=.__.=' `='      *
   </pre>
       
       
