@@ -16,17 +16,20 @@ Here are some ideas to get you started:
 -->
 
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
-
+<div align="Center">
+  
 ## 🤍 Yas (m<3)
 - 15-year-old Full-stack developer with 4 years of Minecraft-based development Experience, Game Development, and Web Design.
 - Graphic designer
 - Roblox developer
+
+</div>
+
 <div align="Center">
   
-## Skills
-  
-| Languages | Tools |
+### Skills
+| Programming | Tools |
 | - | - |
-| <img src="https://skillicons.dev/icons?i=c,go,lua,py,html,css"> | <img src="https://skillicons.dev/icons?i=robloxstudio,godot,unity"> |
+| <img src="https://skillicons.dev/icons?i=c,go,lua,py,html,css"> | <img src="https://skillicons.dev/icons?i=robloxstudio,godot,unity,photoshop"> |
 
 </div>
