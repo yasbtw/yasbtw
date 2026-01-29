@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ## 🤍 Yas (m<3)
-- 15-year-old Fullstack developer with 4 years of Minecraft-based development Experience, Game Development, and Web Design.
+- 15-year-old Full-stack developer with 4 years of Minecraft-based development Experience, Game Development, and Web Design.
 - Graphic designer
 - Roblox developer
 
@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 ![Roblox Studio Badge](https://img.shields.io/badge/Roblox%20Studio-00A2FF?logo=robloxstudio&logoColor=fff&style=for-the-badge)
 ![skript](https://img.shields.io/badge/Skript-20232A?style=for-the-badge&logo=code&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,go,lua,python,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,kotlin,go,lua,py,js,godot,robloxstudio,html,css)](https://skillicons.dev)
 
 #<📫> : Discord: yastubbe
