@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 
   
 # About Me
-<div style="display:flex;">
-  
+
 <table>
   <tr>
     <td>
@@ -41,21 +40,6 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-
-📁 15-year-old Full-stack developer with Minecraft-based development Experience, Game Development, and Web Design.<br>
-💬 Graphic designer and Roblox developer
-</div>
-
-| ``` ``` ))<br>.-#-----./_________\|[] _ []||  |*|  | ``` ``` | b |
-| - | - |
-
-| ```
-|    ))
-|  .-#-----.
-| /_________\
-|  |[] _ []|
-|  |  |*|  |
-| ``` | 📁 **15-year-old Full-stack developer** with Minecraft-based development experience, Game Development, and Web Design.<br>💬 Graphic designer and Roblox developer |
 
 
 # Skills
