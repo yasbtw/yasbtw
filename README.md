@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!--# hellloo!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">-->
 
   
-# 🤍 Yas (m<3)
+# yas (m<3)
 15-year-old Full-stack developer with 4 years of Minecraft-based development Experience, Game Development, and Web Design.
 
 
