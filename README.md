@@ -27,14 +27,14 @@ Here are some ideas to get you started:
   <tr>
   <td>
       
-  <pr>
+  <pre>
   ))
  .-#-----.
 /_________\
  |[] _ []|
  |  |*|  |
         
-  </pr>
+  </pre>
       
       
  </td>
