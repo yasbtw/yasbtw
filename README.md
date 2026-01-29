@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 </div>
 
 | a | b |
+| - | - |
 | ok | a |
 
 | ```
