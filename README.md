@@ -36,4 +36,6 @@ Here are some ideas to get you started:
 ![Roblox Studio Badge](https://img.shields.io/badge/Roblox%20Studio-00A2FF?logo=robloxstudio&logoColor=fff&style=for-the-badge)
 ![skript](https://img.shields.io/badge/Skript-20232A?style=for-the-badge&logo=code&logoColor=white)
 
+[![My Skills](https://skillicons.dev/icons?i=c,c++,java,kotlin,go,lua,luau,python,js,HTML,css)](https://skillicons.dev)
+
 #<📫> : Discord: yastubbe
