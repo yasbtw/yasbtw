@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 15-year-old Full-stack developer with 4 years of Minecraft-based development Experience, Game Development, and Web Design.
 - Graphic designer
 - Roblox developer
-
+<div align="Center">
 ## 💻 Languages
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
@@ -39,5 +39,4 @@ Here are some ideas to get you started:
 | Languages | Tools |
 | - | - |
 | <img src="https://skillicons.dev/icons?i=c,go,lua,py,html,css"> | <img src="https://skillicons.dev/icons?i=robloxstudio,godot,unity"> |
-
-
+</div>
