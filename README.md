@@ -17,14 +17,15 @@ Here are some ideas to get you started:
 
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-## 🤍 Yas (y<3)
-- 14-year-old developer
+## 🤍 Yas (m<3)
+- 15-year-old developer 
 - Full Stack Developer with 4 years of Minecraft-based development Experience, Game Development, and Web Design.
-- Graphic designer (Photoshop)
+- Graphic designer
 - Roblox developer
 
 ## 💻 Languages
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
+![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?logo=godotengine&logoColor=fff&style=for-the-badge)
 ![Lua Badge](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=fff&style=for-the-badge)
 ![Luau Badge](https://img.shields.io/badge/Luau-00A2FF?logo=luau&logoColor=fff&style=for-the-badge)
