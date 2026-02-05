@@ -4,11 +4,12 @@
 # About Me
 
 <table><tr><td><pre>
-  .-.,="``"=.      
-  '=/_       \     
-   |  '=._    |    
-    \     `=./`,   
-     '=.__.=' `='  
+                   \       /            _\/_
+                     .-'-.              //o\  _\/_   
+  _  ___  __  _ --_ /     \ _--_ __  __ _ | __/o\\ _ 
+=-=-_=-=-_=-=_=-_= -=======- = =-=_=-=_,-'|"'""-|-,_ 
+ =- _=-=-_=- _=-= _--=====- _=-=_-_,-"          |    
+jgs=- =- =-= =- = -  -===- -= - ."                   
 </pre></td><td align="left"> 
   
   📁 **15-year-old Full-stack developer** with Minecraft-based development experience, Game Development, and Web Design.<br>
