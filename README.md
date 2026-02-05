@@ -18,7 +18,7 @@
 # Skills
 | Programming | Tools |
 | - | - |
-| <img src="https://skillicons.dev/icons?i=c,lua,luau,py,js,html,css"> | <img src="https://skillicons.dev/icons?i=robloxstudio,godot,unity,photoshop,vscode,vercel,git,firebase,tailwindcss"> |
+| <img src="https://go-skill-icons.vercel.app/icons?i=c,lua,luau,py,js,html,css"> | <img src="https://go-skill-icons.vercel.app/icons?i=robloxstudio,godot,unity,photoshop,vscode,vercel,git,firebase,tailwindcss"> |
 
 # Socials
 | <img src="https://skillicons.dev/icons?i=discord,gmail,instagram"> |
