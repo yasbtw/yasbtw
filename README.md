@@ -5,9 +5,9 @@
 
 <table><tr><td><pre>
 .-. _______|  
-|=|/     /  \ 
-| |_____|_""_|
-|_|_[X]_|____|
+| |/     /  \ 
+| |_yas_|____|
+|_|_[ ]_|____|
 </pre></td><td align="left"> 
   
   📁 **15-year-old Full-stack developer** with Minecraft-based development experience, Game Development, and Web Design.<br>
