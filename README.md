@@ -4,7 +4,6 @@
 # About Me
 
 <table><tr><td><pre>
-           x  
 .-. _______|  
 |=|/     /  \ 
 | |_____|_""_|
@@ -12,7 +11,7 @@
 </pre></td><td align="left"> 
   
   📁 **15-year-old Full-stack developer** with Minecraft-based development experience, Game Development, and Web Design.<br>
-  😋 Graphic designer and Roblox developer
+  🤍 Graphic designer and Roblox developer
 </div></td></tr></table>
 
 # Skills
