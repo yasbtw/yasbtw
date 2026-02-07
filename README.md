@@ -4,10 +4,10 @@
 # About Me
 
 <table><tr><td><pre>
-.-. _______|  
+.-. ________  
 | |/     /  \ 
-| |_yas_|____|
-|_|_[ ]_|____|
+| |_____|____|
+|_|_____|____|
 </pre></td><td align="left"> 
   
   📁 **15-year-old Full-stack developer** with Minecraft-based development experience, Game Development, and Web Design.<br>
