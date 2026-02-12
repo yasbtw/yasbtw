@@ -20,6 +20,19 @@ X*#####*+^^\_\
 [yas@arch ~]$ ls skills
   🤍 Graphic designer and Roblox developer
 ```
+
+```bash
+[yas@arch ~]$ whoami
+📁 15-year-old Full-Stack Developer
+
+[yas@arch ~]$ skills
+🎮 Game Development & Web Design
+🤍 Graphic Designer & Roblox Dev
+
+[yas@arch ~]$ echo $OS
+Arch Linux btw 🐧
+```
+
 </div></td></tr></table>
 
 # Skills
