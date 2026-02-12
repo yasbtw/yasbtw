@@ -14,11 +14,9 @@ X*#####*+^^\_\
 </pre></td><td align="left"> 
   
 ```console
-
 [yas@arch ~]$ whoami
   📁 15-year-old Full-stack developer with Game Development, and Web Design.
-
-[yas@arch ~]$ 🤍 Graphic designer and Roblox developer
+  🤍 Graphic designer and Roblox developer
 ```
 </div></td></tr></table>
 
