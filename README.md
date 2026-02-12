@@ -2,18 +2,15 @@
 <div align="center">
   
 # About Me
-<pre class="mb-0" style="display:inline-block;">
-  __
- \  \     _ _
+
+
+<table><tr><td><pre>
+  __           
+ \  \     _ _ 
   \**\ ___\/ \
 X*#####*+^^\_\
-  o/\  \
-     \__\</pre>
-<table><tr><td><pre>
-.-. ________  
-| |/     /  \ 
-| |_____|____|
-|_|_____|____|
+  o/\  \      
+     \__\     
 </pre></td><td align="left"><pre>
   [yas@github ~]$ 📁 15-year-old Full-stack developer with Game Development, and Web Design.<br>
   [yas@github ~]$ 🤍 Graphic designer and Roblox developer
