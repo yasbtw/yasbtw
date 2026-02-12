@@ -13,12 +13,12 @@ X*#####*+^^\_\
      \__\     
 </pre></td><td align="left"> 
   
-```ANSI
-\e[31m[yas@arch ~]$ whoami
-  📁 15-year-old Full-stack developer with Game Development, and Web Design.
+```bash
+[yas@arch ~]$ whoami
+  15-year-old Full-stack developer with Game Development, and Web Design.
 
 [yas@arch ~]$ ls skills
-  🤍 Graphic designer and Roblox developer
+  Graphic designer and Roblox developer
 ```
 
 ```bash
