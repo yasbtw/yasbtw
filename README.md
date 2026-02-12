@@ -13,8 +13,8 @@ X*#####*+^^\_\
      \__\     
 </pre></td><td align="left"> 
   
-```console
-[yas@arch ~]$ whoami
+```ANSI
+\e[31m[yas@arch ~]$ whoami
   📁 15-year-old Full-stack developer with Game Development, and Web Design.
 
 [yas@arch ~]$ ls skills
