@@ -14,8 +14,11 @@ X*#####*+^^\_\
 </pre></td><td align="left"> 
   
 ```bash
+
   [yas@arch ~]$ whoami
+
 📁 15-year-old Full-stack developer with Game Development, and Web Design.<br>
+
   [yas@arch ~]$ 🤍 Graphic designer and Roblox developer
 ```
 </div></td></tr></table>
