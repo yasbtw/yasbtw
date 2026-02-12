@@ -2,7 +2,8 @@
 <div align="center">
   
 # About Me
-<pre class="mb-0" style="display:inline-block;"> __
+<pre class="mb-0" style="display:inline-block;">
+  __
  \  \     _ _
   \**\ ___\/ \
 X*#####*+^^\_\
