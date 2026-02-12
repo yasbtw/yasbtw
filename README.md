@@ -18,8 +18,9 @@ X*#####*+^^\_\
   15-year-old Full-stack developer with Minecraft-based experience,
   Game Development, and Web Design.
 
-[yas@arch ~]$ ls skills
-  Graphic designer and Roblox developer
+[yas@arch ~]$ top
+  CPU: 99.69% Creativity
+  RAM: 99.67% Passion
 ```
 </div></td></tr></table>
 
