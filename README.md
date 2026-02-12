@@ -15,8 +15,8 @@ X*#####*+^^\_\
   
 ```bash
 [yas@arch ~]$ whoami
-  15-year-old Full-stack developer with Minecraft-based experience,
-  Game Development, and Web Design.
+  15-year-old Full-stack developer with Minecraft-based dev
+  experience, Game Development, and Web Design.
 
 [yas@arch ~]$ top
   < CPU: 99.69% Creativity | RAM: 99.67% Passion >
