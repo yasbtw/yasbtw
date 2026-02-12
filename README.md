@@ -13,13 +13,12 @@ X*#####*+^^\_\
      \__\     
 </pre></td><td align="left"> 
   
-```bash
+```console
 
-  [yas@arch ~]$ whoami
+[yas@arch ~]$ whoami
+  📁 15-year-old Full-stack developer with Game Development, and Web Design.
 
-📁 15-year-old Full-stack developer with Game Development, and Web Design.<br>
-
-  [yas@arch ~]$ 🤍 Graphic designer and Roblox developer
+[yas@arch ~]$ 🤍 Graphic designer and Roblox developer
 ```
 </div></td></tr></table>
 
