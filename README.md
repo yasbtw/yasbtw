@@ -11,10 +11,13 @@
 X*#####*+^^\_\
   o/\  \      
      \__\     
-</pre></td><td align="left"><pre>
+</pre></td><td align="left"> ```bash
+  
   [yas@github ~]$ 📁 15-year-old Full-stack developer with Game Development, and Web Design.<br>
   [yas@github ~]$ 🤍 Graphic designer and Roblox developer
-</pre></div></td></tr></table>
+  
+```
+</div></td></tr></table>
 
 # Skills
 | Programming | Tools |
