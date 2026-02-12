@@ -2,16 +2,19 @@
 <div align="center">
   
 # About Me
-
+<pre class="mb-0" style="display:inline-block;"> __
+ \  \     _ _
+  \**\ ___\/ \
+X*#####*+^^\_\
+  o/\  \
+     \__\</pre>
 <table><tr><td><pre>
 .-. ________  
 | |/     /  \ 
 | |_____|____|
 |_|_____|____|
-</pre></td><td align="left"> 
-
-<pre style="color: yellow;">
-  [yas@github ~]$ 📁 15-year-old Full-stack developer with Minecraft-based dev experience, Game Development, and Web Design.<br>
+</pre></td><td align="left"><pre>
+  [yas@github ~]$ 📁 15-year-old Full-stack developer with Game Development, and Web Design.<br>
   [yas@github ~]$ 🤍 Graphic designer and Roblox developer
 </pre></div></td></tr></table>
 
