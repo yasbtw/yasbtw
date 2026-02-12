@@ -4,8 +4,8 @@
 # About Me
 
 
-<table><tr><td>
-<pre>__             
+<table><tr><td><pre>
+  __          
  \  \     _ _ 
   \**\ ___\/ \
 X*#####*+^^\_\
