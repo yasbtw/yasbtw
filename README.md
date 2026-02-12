@@ -19,7 +19,7 @@ X*#####*+^^\_\
   Game Development, and Web Design.
 
 [yas@arch ~]$ top
-  <CPU>: <99.69% Creativity> | <RAM>: 99.67% Passion
+  < CPU: 99.69% Creativity | RAM: 99.67% Passion >
 ```
 </div></td></tr></table>
 
