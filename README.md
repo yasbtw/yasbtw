@@ -1,7 +1,7 @@
 <!-- Made with 💖 by yas (If you steal, you are officially gay) -->
 <div align="center">
   
-# ` About Me `
+# `About Me`
 
 
 <table><tr><td><pre>
@@ -23,7 +23,7 @@ X*#####*+^^\_\
 ```
 </div></td></tr></table>
 
-# Skills
+# `Skills`
 | Programming | Tools |
 | - | - |
 | <img src="https://skillicons.dev/icons?i=cpp,c,lua,py"> | <img src="https://skillicons.dev/icons?i=robloxstudio,godot,unity,vscode"> |
