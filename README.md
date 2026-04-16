@@ -4,24 +4,19 @@
 # About Me
 
 <table><tr><td><pre>
-  __          
- \  \     _ _ 
-  \**\ ___\/ \
-X*#####*+^^\_\
-  o/\  \      
-     \__\     
-</pre></td><td align="left"> <h4>
+    ╱|、  
+  (˚ˎ 。7 
+   |、˜〵   
+  じしˍ,)ノ 
+</pre></td><td align="left"> 
 
 ```bash
 [yas@arch ~]$ whoami
   15-year-old student working his way around things
-  
+
 [yas@arch ~]$ grep "current_focus" profile.txt
-  > Game templates and TUI tools
-  > Digital logic (Minecraft Redstone)
-  > Exploring new languages
-```
-</h4>
+  > Exploring new languages 
+  ```
 </div></td></tr></table>
 
 # Skills
