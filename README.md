@@ -4,19 +4,15 @@
 # About Me
 
 <table><tr><td><pre>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣶⡀
-⠀⠀⢠⣤⡀⠀⠀⠀⠀⠀⣠⣤⣾⠏⠘⠿⣦⣤
-⠀⠀⣾⠉⠻⢶⠶⠛⢻⡇⠘⢻⡦⠀⠀⢰⡾⠃
-⢀⣤⠿⠀⠀⠀⠀⢠⡟⠁⠀⠸⠷⠿⠿⣾⣷
-⢿⣥⣀⠀⠀⠀⠀⠀⢻⡆
-⠀⠈⠉⣿⣀⣾⠟⠛⠋⠁    
-⠀⠀⠀⠘⠛⠁
+    ╱|、  
+  (˚ˎ 。7 
+   |、˜〵   
+  じしˍ,)ノ 
 </pre></td><td align="left"> 
 
 ```bash
 [yas@arch ~]$ whoami
-  15-year-old student working his way around things
-  
+  > 15-year-old student working his way around things
 
 [yas@arch ~]$ grep "current_focus" profile.txt
   > Exploring new languages 
