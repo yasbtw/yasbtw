@@ -1,8 +1,7 @@
 <!-- Made with 💖 by yas (If you steal, you are officially gay) -->
 <div align="center">
   
-# `About Me`
-
+# About Me
 
 <table><tr><td><pre>
   __          
@@ -11,25 +10,24 @@
 X*#####*+^^\_\
   o/\  \      
      \__\     
-</pre></td><td align="left"> 
-  
+</pre></td><td align="left"> <h4>
+
 ```bash
 [yas@arch ~]$ whoami
-  15-year-old Full-stack developer with Minecraft-based dev
-  experience, Game Development, and Web Design.
-
-[yas@arch ~]$ top
-  < CPU: 99.69% Creativity | RAM: 99.67% Passion >
+  15-year-old student working his way around things
+  
+[yas@arch ~]$ grep "current_focus" profile.txt
+  > Game templates and TUI tools
+  > Digital logic (Minecraft Redstone)
+  > Exploring new languages
 ```
+</h4>
 </div></td></tr></table>
 
-# `Skills`
+# Skills
 | Programming | Tools |
 | - | - |
 | <img src="https://skillicons.dev/icons?i=cpp,c,lua,py"> | <img src="https://skillicons.dev/icons?i=robloxstudio,godot,unity,vscode"> |
 | <img src="https://skillicons.dev/icons?i=js,html,css,go"> | <img src="https://skillicons.dev/icons?i=vercel,git,firebase,tailwindcss"> |
 
-<!--# Socials
-| <img src="https://skillicons.dev/icons?i=discord,gmail,instagram"> |
-| - |-->
 </div>
