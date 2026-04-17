@@ -12,10 +12,10 @@
 
 ```bash
 [yas@arch ~]$ whoami
-  > 15-year-old student working his way around things
+  > yas : 15-year-old student working his way around things
 
 [yas@arch ~]$ grep "current_focus" profile.txt
-  > Exploring new languages 
+  > Exploring new languages & Making projects
   ```
 </div></td></tr></table>
 
